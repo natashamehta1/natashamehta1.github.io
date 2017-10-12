@@ -12,7 +12,7 @@ body.index{
 }
 
 .jumbotron{
-  background-image: url(index_photo.jpg);
+  background-image: url(index_photo.JPG);
   background-repeat:no-repeat;
   background-size:cover;
   height: 1200px;
@@ -57,21 +57,21 @@ body.MyJourney{
 }
 
 .jumbotron1{
-  background-image: url(bronze_jumbo.jpg);
+  background-image: url(bronze_jumbo.JPG);
   background-repeat:no-repeat;
   background-size:cover;
   height:700px;
 }
 
 .jumbotron2{
-  background-image: url(silver_jumbo.jpg);
+  background-image: url(silver_jumbo.JPG);
   background-repeat:no-repeat;
   background-size:cover;
   height:700px;
 }
 
 .jumbotron3{
-  background-image: url(gold_jumbo.jpg);
+  background-image: url(gold_jumbo.JPG);
   background-repeat:no-repeat;
   background-size:cover;
   height:700px;
