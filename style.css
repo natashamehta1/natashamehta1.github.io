@@ -1,6 +1,12 @@
 body.index{
   font-family: 'Roboto Condensed', sans-serif;
-  background-color:black;
+  background-color:white;
+}
+
+form.form{
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:20px;
 }
 
 .nav-link{
@@ -14,8 +20,8 @@ body.index{
 .jumbotron{
   background-image: url(homejobs.png);
   background-repeat:no-repeat;
-  background-size:cover;
-  height: 120px;
+  background-size:auto;
+  height: 430px;
 }
 
 .jumbotron img{
@@ -26,6 +32,14 @@ body.index{
   background-color: #FFA500;
   color: black;
   border-color: #FFA500;
+  width: 650px;
+}
+
+btn-primary.form{
+  background-color: #FFA500;
+  color: black;
+  border-color: #FFA500;
+  width: 650px;
 }
 
 .btn-primary:hover{
@@ -34,17 +48,38 @@ body.index{
 }
 
 h1.display-3{
-  color:white;
-  margin-left:20px;
+  color:black;
+  margin-left:0px;
 }
 
-h2.lead{
-  color:white;
-  margin-left:20px;
+h3.lead{
+  color:black;
+  margin-left:0px;
+  font-size: 15px;
+}
+
+h4.pricing{
+  margin-top:20px;
+}
+
+h5.pricing{
+  margin-bottom:50px;
+}
+
+h4.subsc{
+  margin-top:180px;
+}
+
+h5.subsc{
+  margin-top:30px;
 }
 
 p.lead-1{
-  color:white;
+  color:black;
+}
+
+p{
+  font-size: 14px;
 }
 
 p.rights{
@@ -78,7 +113,8 @@ body.MyJourney{
 }
 
 .container{
-  margin:20px;
+  margin:50px;
+  margin-left:100px;
 }
 
 .jumbotron4{
