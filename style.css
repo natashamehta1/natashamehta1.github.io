@@ -28,6 +28,28 @@ form.form{
   height:0px;
 }
 
+.btn-primary1{
+  background-color: #FFA500;
+  color: black;
+  border-color: #FFA500;
+  width: 650px;
+  margin-left:350px;
+  margin-top:20px;
+}
+
+btn-primary1.form{
+  background-color: #FFA500;
+  color: black;
+  border-color: #FFA500;
+  width: 650px;
+}
+
+.btn-primary1:hover{
+  background-color: #FFA500;
+  border-color: #FFA500;
+  color:white;
+}
+
 .btn-primary{
   background-color: #FFA500;
   color: black;
@@ -50,6 +72,20 @@ btn-primary.form{
 h1.display-3{
   color:black;
   margin-left:0px;
+}
+
+h1.display-2{
+  color:black;
+  margin-left:400px;
+  font-size: 70px;
+  margin-top:20px;
+}
+
+h1.display-1{
+  color:black;
+  margin-right:600px;
+  font-size: 70px;
+  margin-top: 30px;
 }
 
 h3.lead{
@@ -80,6 +116,7 @@ p.lead-1{
 
 p{
   font-size: 14px;
+  margin:0px;
 }
 
 p.rights{
@@ -89,6 +126,37 @@ p.rights{
 
 body.MyJourney{
   background-color: white;
+}
+
+.jumbotrongs{
+  margin-top:100px;
+  background-color: grey;
+  height: 300px;
+  background-image:url(form.png);
+  background-repeat:no-repeat;
+  background-size: 300px;
+  padding-left:50px;
+}
+
+.jumbotronp{
+  height: 300px;
+  background-image:url(price.jpg);
+  background-repeat:no-repeat;
+  background-size:200px;
+}
+
+p.getstart{
+  color:white;
+  margin-left:400px;
+}
+
+p.eprice{
+  color:black;
+  margin-right:600px;
+}
+
+.jumbotrone{
+  margin-top:20px;
 }
 
 .jumbotron1{
